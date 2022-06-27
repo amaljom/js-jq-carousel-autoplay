@@ -1,0 +1,25 @@
+.stile-css{
+    height: 700px;
+    object-fit: cover;
+}     
+
+.pulsanti{
+    position: relative;
+    bottom: 400px;
+}
+.posizione-thumbnail{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 170px;
+}
+.posizione{
+    width: 65px;
+    padding: 2px;
+    cursor: pointer;
+}
+.special{
+    width: 80px;
+    padding: 2px;
+    cursor: pointer;
+}
